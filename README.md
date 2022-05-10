@@ -1,5 +1,3 @@
 # HTML-and-CSS-Projects
-This contains all of my HTML and JavaScript projects during this course.
+This contains HTML and JavaScript. For more projects with HTML, CSS, & JavaScripts, view here: https://github.com/vangshirley/HTML-and-CSS-JS-Projects
 
-
-<b>Hello, World</b> The infamous "Hello, World" sign, but in an alert box!
